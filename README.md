@@ -1,4 +1,4 @@
-![SMBSyncX](images/smbsyncx.jpg)
+<img src="images/smbsyncx.jpg" alt="SMBSyncX" width="500">
 
 SMBSyncX is a powerful tool designed to synchronize files between your Android device and an SMB/Windows share.
 
