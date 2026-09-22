@@ -11,4 +11,4 @@ SMBSyncX is a powerful tool designed to synchronize files between your Android d
 
 ## Credits
 
-Developed with using Jetpack Compose, Material 3, and the SMBJ library.
+Developed using Jetpack Compose, Material 3, and the SMBJ library.
